@@ -64,18 +64,6 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spk-22&show_icons=true&theme=react&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spk-22&layout=compact&theme=react)
-
-
-### 💻 Tech Stack
-
-- **Languages**: Python, C/C++, JavaScript, Bash  
-- **AI/ML**: NumPy, Pandas, Scikit-learn, TensorFlow, OpenCV, Matplotlib
-- **Web development** : React, Next and JavaScript.
-- **Competitive Programming**: Codeforces, LeetCode, HackerRank  
-- **Tools**: Git, GitHub, Linux, Postman, VS Code  
-- **Cloud & DevOps**: Docker, GitHub Actions, Firebase, basics of AWS  
-- **Other**: APIs, CLI tools, Basic Web Dev for UI mockups
-
 ---
 
 ### 🌱 Currently Learning

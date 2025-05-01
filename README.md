@@ -14,6 +14,11 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 - Cloud-Native Development & DevOps Practices  
 
 ---
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spk-22&show_icons=true&theme=react&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spk-22&layout=compact&theme=react)
+
 
 ### 💻 Tech Stack
 

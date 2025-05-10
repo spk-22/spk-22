@@ -4,11 +4,12 @@
 
 I’m a developer with a deep interest in **Artificial Intelligence**, **Machine Learning**, and **Competitive Programming**. I enjoy solving real-world problems through code, and I’m currently expanding my skills in **Cloud Computing** and **DevOps** to build and deploy scalable systems.
 
-## 🌐 Portfolio Website
-Check out my personal portfolio here:  
-🔗 Portfolio(https://siya-k-portfolio.vercel.app)
----
 
+## 🌐 Portfolio Website
+
+Check out my personal portfolio here:  
+🔗 [siya-k-portfolio.vercel.app](https://siya-k-portfolio.vercel.app)
+---
 ### 🧠 Areas of Interest
 
 - Artificial Intelligence & Machine Learning  

@@ -6,8 +6,9 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 
 
 ## 🌐 Portfolio Website
----
-Check out my personal portfolio here:  
+
+
+ - Check out my personal portfolio website
 🔗 [siya-k-portfolio.vercel.app](https://siya-k-portfolio.vercel.app)
 ---
 ### 🧠 Areas of Interest

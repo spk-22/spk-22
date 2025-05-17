@@ -1,15 +1,9 @@
-### 👋 Hi, I’m @spk-22
+### 👋 Hi, I’m spk-22
 
 ---
 
 I’m a developer with a deep interest in **Artificial Intelligence**, **Machine Learning**, and **Competitive Programming**. I enjoy solving real-world problems through code, and I’m currently expanding my skills in **Cloud Computing** and **DevOps** to build and deploy scalable systems.
 
-
-## 🌐 Portfolio Website
-
-
- - Check out my personal portfolio website
-🔗 [siya-k-portfolio.vercel.app](https://siya-k-portfolio.vercel.app)
 ---
 ### 🧠 Areas of Interest
 
@@ -94,6 +88,10 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 - **LinkedIn**: https://www.linkedin.com/in/siya-p-kurandwad/
 - **Email**: siyapkurandwad@gmail.com
 
+## 🌐 Portfolio Website
+
+ - Check out my personal portfolio website
+🔗 [siya-k-portfolio.vercel.app](https://siya-k-portfolio.vercel.app)
 
 ---
 

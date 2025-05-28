@@ -5,7 +5,7 @@
 I’m a developer with a deep interest in **Artificial Intelligence**, **Machine Learning**, and **Competitive Programming**. I enjoy solving real-world problems through code, and I’m currently expanding my skills in **Cloud Computing** and **DevOps** to build and deploy scalable systems.
 
 ---
-### 🧠 Areas of Interest
+###  Areas of Interest
 
 - Artificial Intelligence & Machine Learning  
 - Data Structures & Algorithms  
@@ -65,7 +65,7 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spk-22&layout=compact&theme=react)
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - **DevOps Fundamentals** – CI/CD pipelines, containerization with Docker, intro to Kubernetes  
 - **Cloud Services** – AWS (EC2, S3), GCP basics  
@@ -83,7 +83,7 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 
 ---
 
-### 📫 Reach Me At
+###  Reach Me At
 
 - **LinkedIn**: https://www.linkedin.com/in/siya-p-kurandwad/
 - **Email**: siyapkurandwad@gmail.com
@@ -95,9 +95,9 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 
 ---
 
-### ⚡ Quick Facts
+###  Quick Facts
 
-- 🧠 Strong problem-solving mindset with a competitive coding background  
-- 🚀 Currently exploring the intersection of AI and scalable backend systems  
-- 🐧 Comfortable working in Linux environments and CLI workflows  
-- 🤓 Always learning, building, and iterating  
+-  Strong problem-solving mindset with a competitive coding background  
+-  Currently exploring the intersection of AI and scalable backend systems  
+-  Comfortable working in Linux environments and CLI workflows  
+-  Always learning, building, and iterating  

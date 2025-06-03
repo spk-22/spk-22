@@ -72,6 +72,8 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=spk-22&theme=algolia&margin-w=10&no-frame=true)
 
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=spk-22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ###  Currently Learning

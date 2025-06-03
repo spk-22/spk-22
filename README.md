@@ -63,6 +63,11 @@ I’m a developer with a deep interest in **Artificial Intelligence**, **Machine
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spk-22&show_icons=true&theme=react&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spk-22&layout=compact&theme=react)
+
+## 📈 Contribution Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=spk-22&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 ## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=spk-22&theme=algolia&margin-w=10&no-frame=true)
